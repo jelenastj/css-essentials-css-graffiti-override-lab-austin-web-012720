@@ -14,5 +14,6 @@
 #wall .parent + .parent #tag-5.slick {
   display: none;
 }
-#wall div.parent div + div:last-child div#tag-6 {
+#wall .parent + #tag-6 {
   display: none;
+}
